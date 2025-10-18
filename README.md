@@ -38,6 +38,7 @@ Follow these steps to set up Termux Notepad:
      git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
      cd TechVyana-Termux-Notepad
     ```
+
 3. **Make It Executable**
     ```bash
     chmod +x termux_notepad.py
