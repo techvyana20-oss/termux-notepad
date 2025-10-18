@@ -35,15 +35,16 @@ Follow these steps to set up Termux Notepad:
 4.  **Clone the Repository**
    - Download Termux Notepad from GitHub:
    ```bash
-    chmod +x termux_notepad.py
+    git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
+    cd TechVyana-Termux-Notepad
     ```
 
-3. **Make It Executable**
+5. **Make It Executable**
     ```bash
     chmod +x termux_notepad.py
     ```
 
-4. **Run the Editor**
+6. **Run the Editor**
     ```bash
     ./termux_notepad.py
     ```
