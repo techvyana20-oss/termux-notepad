@@ -20,18 +20,24 @@ Termux Notepad enables developers, students, and keyboard-centric users to manag
 
 Follow these steps to set up Termux Notepad:
 
-1. **Clone the Repository**
+1. **Update Termux Packages**
+   - Before anything, make sure your system is up to date:
     ```bash
-    git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
-    cd TechVyana-Termux-Notepad
+    pkg update && pkg upgrade -y
+    ```
+    
+2. **Install Required Packages**
+   -Install Python and Git (needed to run and clone the project):
+    ```bash
+  pkg install python3 git -y
     ```
 
-2. **Make It Executable**
+3. **Make It Executable**
     ```bash
     chmod +x termux_notepad.py
     ```
 
-3. **Run the Editor**
+4. **Run the Editor**
     ```bash
     ./termux_notepad.py
     ```
