@@ -32,6 +32,12 @@ Follow these steps to set up Termux Notepad:
      pkg install python3 git -y
     ```
 
+4.  **Clone the Repository**
+   - Download Termux Notepad from GitHub:
+    ```bash
+     git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
+     cd TechVyana-Termux-Notepad
+    ```
 3. **Make It Executable**
     ```bash
     chmod +x termux_notepad.py
