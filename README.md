@@ -21,9 +21,9 @@ Termux Notepad enables developers, students, and keyboard-centric users to manag
 Follow these steps to set up Termux Notepad:
 
 1. **Clone the Repository**
+    ```bash
     git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
     cd TechVyana-Termux-Notepad
-    ```bash
     ```
 
 2. **Make It Executable**
