@@ -20,10 +20,10 @@ Termux Notepad enables developers, students, and keyboard-centric users to manag
 
 Follow these steps to set up Termux Notepad:
 
-1. **Save the Script**
-    - Save the provided Python code as:
+1. **Clone the Repository**
+    git clone https://github.com/TechVyana/TechVyana-Termux-Notepad.git
+    cd TechVyana-Termux-Notepad
     ```bash
-    termux_notepad.py
     ```
 
 2. **Make It Executable**
