@@ -29,7 +29,7 @@ Follow these steps to set up Termux Notepad:
 2. **Install Required Packages**
    -Install Python and Git (needed to run and clone the project):
     ```bash
-  pkg install python3 git -y
+     pkg install python3 git -y
     ```
 
 3. **Make It Executable**
